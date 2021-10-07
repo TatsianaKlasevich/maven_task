@@ -1,0 +1,7 @@
+package com.klasevich.itrex.lab;
+
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello World!");
+    }
+}
